@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.2.0](https://github.com/jthegedus/forok-asdf-actions/compare/v2.0.0...v2.2.0) (2023-03-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update actions to use node16 ([#488](https://github.com/jthegedus/forok-asdf-actions/issues/488))
+
+### Features
+
+* Update actions to use node16 ([#488](https://github.com/jthegedus/forok-asdf-actions/issues/488)) ([6844d09](https://github.com/jthegedus/forok-asdf-actions/commit/6844d09b13209e7d2ce3b63d2b089a2acef581ec))
+
+
+### Bug Fixes
+
+* update codeql for dependabot compat ([3f6d713](https://github.com/jthegedus/forok-asdf-actions/commit/3f6d71382fe4c7807936733d72aef7ee6e56e7a9))
+* use correct trigger type ([d464031](https://github.com/jthegedus/forok-asdf-actions/commit/d4640312f060abdd98823bf6bd9a2758851133c2))
+
+
+### Miscellaneous Chores
+
+* release 2.1.0 ([5314156](https://github.com/jthegedus/forok-asdf-actions/commit/5314156089f46494f980d865468084adf0d141ef))
+* release 2.2.0 ([42b3f29](https://github.com/jthegedus/forok-asdf-actions/commit/42b3f295eccef06c81c298c5248d36d4a0cf0a72))
+* Update actions to use node16 ([#488](https://github.com/jthegedus/forok-asdf-actions/issues/488)) ([2f61da5](https://github.com/jthegedus/forok-asdf-actions/commit/2f61da5af7da0a1216219da51d0718c25e159a77))
+
 ## [2.0.0](https://github.com/asdf-vm/actions/compare/v1.1.0...v2.0.0) (2023-03-09)
 
 ### ⚠ BREAKING CHANGES
