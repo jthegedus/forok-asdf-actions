@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.5.0](https://github.com/jthegedus/forok-asdf-actions/compare/v2.4.0...v2.5.0) (2023-03-14)
+
+
+### Miscellaneous Chores
+
+* release 2.5.0 ([52e4745](https://github.com/jthegedus/forok-asdf-actions/commit/52e47450f5a44c1cf46998fa48ed95f2b8610d4a))
+
 ## [2.4.0](https://github.com/jthegedus/forok-asdf-actions/compare/v2.3.0...v2.4.0) (2023-03-14)
 
 
