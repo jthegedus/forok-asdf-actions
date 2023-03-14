@@ -19,6 +19,7 @@ jobs:
           release-type: node
           extra-files: |
             README.md
+      - uses: actions/checkout@v2
       # if there was a release, move the git tag for the major version to the same SHA as the new GitHub Release
       - name: tag major version
         if: ${{ steps.release.outputs.release_created }}
